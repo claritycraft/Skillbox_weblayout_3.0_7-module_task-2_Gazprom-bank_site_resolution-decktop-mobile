@@ -17,3 +17,19 @@ Figma (design mockup)
 
 # License
 This project is for educational purposes only. Do not copy or redistribute without permission.
+
+# Clients
+# Desktop — 1440px
+<img width="1440" height="3710" alt="Desktop - 1440 (1)" src="https://github.com/user-attachments/assets/702e73c8-329a-448f-9ea0-1cca97a76d2a" />
+
+# Tablet — 768px
+<img width="768" height="2479" alt="Tablet - 768 (1)" src="https://github.com/user-attachments/assets/94fbf568-c2db-4fc7-ae99-07634d43475a" />
+
+# Mobile — 375px
+<img width="375" height="3820" alt="Mobile - 375 (1)" src="https://github.com/user-attachments/assets/26a8364a-6297-444a-a897-9135134f9506" />
+
+
+
+
+
+
